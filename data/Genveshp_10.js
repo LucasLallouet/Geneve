@@ -1,0 +1,1 @@
+var json_Genveshp_10 = {"type":"FeatureCollection","name":"Genveshp_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Lieux":"Gen�ve","Latitude (":6.13533,"Longitude":46.20609},"geometry":{"type":"Point","coordinates":[6.135333382559454,46.206093374502444]}}]}
